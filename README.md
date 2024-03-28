@@ -1,4 +1,4 @@
-### WholeCTSeg: 전신 CT Segmentation 프로젝트
+## WholeCTSeg: 전신 CT Segmentation 프로젝트
 
 <br><br><br>
 
